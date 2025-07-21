@@ -30,7 +30,7 @@ class DisplayActivity : AppCompatActivity() {
         "1080p" to StreamSettings(1920, 1080, 25, 4096 * 1024),
         "720p" to StreamSettings(1280, 720, 25, 2048 * 1024)
     )
-    private val baseRtmpUrl = "rtmp://smotra.ru:1936/live/"
+    private val baseRtmpUrl = "rtmp://live.twitch.tv/app/"
 
     data class StreamSettings(val width: Int, val height: Int, val fps: Int, val bitrate: Int)
 

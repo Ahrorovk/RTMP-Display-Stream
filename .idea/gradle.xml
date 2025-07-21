@@ -11,6 +11,14 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/../pedroSG94-RootEncoder-dfea510/common" />
+            <option value="$PROJECT_DIR$/../pedroSG94-RootEncoder-dfea510/encoder" />
+            <option value="$PROJECT_DIR$/../pedroSG94-RootEncoder-dfea510/extra-sources" />
+            <option value="$PROJECT_DIR$/../pedroSG94-RootEncoder-dfea510/library" />
+            <option value="$PROJECT_DIR$/../pedroSG94-RootEncoder-dfea510/rtmp" />
+            <option value="$PROJECT_DIR$/../pedroSG94-RootEncoder-dfea510/rtsp" />
+            <option value="$PROJECT_DIR$/../pedroSG94-RootEncoder-dfea510/srt" />
+            <option value="$PROJECT_DIR$/../pedroSG94-RootEncoder-dfea510/udp" />
           </set>
         </option>
       </GradleProjectSettings>
