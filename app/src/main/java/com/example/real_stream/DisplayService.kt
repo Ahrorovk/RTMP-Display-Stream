@@ -12,7 +12,7 @@ import android.util.Log
 import androidx.annotation.RequiresApi
 import androidx.core.app.NotificationCompat
 import com.pedro.rtmp.utils.ConnectCheckerRtmp
-import com.pedro.rtplibrary.rtmp.RtmpDisplay
+import com.pedro.library.rtmp.RtmpDisplay
 import android.app.PendingIntent
 
 @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
